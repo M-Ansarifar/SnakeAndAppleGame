@@ -9,6 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Tkinter
 ```bash
 pip install tkinter
 pip install turtle
+git clone https://github.com/M-Ansarifar/SnakeAndAppleGame.git
 ```
 
 ## Controls
